@@ -1,4 +1,4 @@
-# Tibia-Servidor-8.6
+# Tibia-8.6
 # Open Tibia Repos
 
 
